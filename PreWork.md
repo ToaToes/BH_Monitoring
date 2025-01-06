@@ -3,7 +3,7 @@
    choose the right iso file, base on the system architecture
 3. Run virtual machine, Install CentOS
 4. JDK package install:
-
+   
 Step 1: Update the system
 
 Before start, it's always good practice to update your system:
@@ -65,3 +65,6 @@ It should display the path you set, for example:
 ```
 /usr/lib/jvm/java-17-openjdk
 ```
+
+5. Install Oracle DB version
+6. Setup environmnet for Oracle DB
