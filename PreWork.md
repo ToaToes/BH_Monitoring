@@ -66,5 +66,5 @@ It should display the path you set, for example:
 /usr/lib/jvm/java-17-openjdk
 ```
 
-5. Install Oracle DB version
+5. Install Oracle DB version -> 19c
 6. Setup environmnet for Oracle DB
