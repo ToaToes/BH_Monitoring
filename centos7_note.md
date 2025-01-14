@@ -1,5 +1,21 @@
 after installation, update the network configuration:
 
+```
+Could not retrieve mirrorlist http://mirrorlist.centos.org/?release=7&arch=x86_64&repo=os&infra=stock error was
+14: curl#6 = "Could not resolve host: mirrorlist.centos.org; Name or services not known"
+
+One of the configured repos failed (Unkown),
+
+...
+...
+...
+
+
+Cannot find a valid baseurl for repo: base/7/x86_64
+```
+
 https://upcloud.com/resources/tutorials/troubleshoot-network-connectivity-linux-server
 
 https://unix.stackexchange.com/questions/145447/ifconfig-command-not-found
+
+https://stackoverflow.com/questions/60234236/yum-doesnt-have-enough-cached-data-to-continue-at-this-point-the-only-n-safe-t
