@@ -19,3 +19,8 @@ https://upcloud.com/resources/tutorials/troubleshoot-network-connectivity-linux-
 https://unix.stackexchange.com/questions/145447/ifconfig-command-not-found
 
 https://stackoverflow.com/questions/60234236/yum-doesnt-have-enough-cached-data-to-continue-at-this-point-the-only-n-safe-t
+
+
+to donwload JDK on CentOS
+
+https://unix.stackexchange.com/questions/703538/openjdk-17-for-centos-7
