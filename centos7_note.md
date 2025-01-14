@@ -29,3 +29,8 @@ https://unix.stackexchange.com/questions/703538/openjdk-17-for-centos-7
 VI config
 
 https://www.cs.colostate.edu/helpdocs/vi.html
+
+
+SSH service enable:
+
+https://phoenixnap.com/kb/how-to-enable-ssh-centos-7
