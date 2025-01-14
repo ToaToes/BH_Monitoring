@@ -24,3 +24,8 @@ https://stackoverflow.com/questions/60234236/yum-doesnt-have-enough-cached-data-
 to donwload JDK on CentOS
 
 https://unix.stackexchange.com/questions/703538/openjdk-17-for-centos-7
+
+
+VI config
+
+https://www.cs.colostate.edu/helpdocs/vi.html
