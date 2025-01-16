@@ -35,9 +35,6 @@ SSH service enable:
 
 https://phoenixnap.com/kb/how-to-enable-ssh-centos-7
 
-yum not supporting CentOS, change to vault centos repo: <br>
-https://www.nux.ro/Enable_vault_repositories_on_CentOS7/
-
 
 yum not supporting CentOS, change to vault centos repo: <br>
 https://www.nux.ro/Enable_vault_repositories_on_CentOS7/
