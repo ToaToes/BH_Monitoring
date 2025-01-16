@@ -14,6 +14,7 @@ One of the configured repos failed (Unkown),
 Cannot find a valid baseurl for repo: base/7/x86_64
 ```
 
+## Configure the Network connection
 https://upcloud.com/resources/tutorials/troubleshoot-network-connectivity-linux-server
 
 https://unix.stackexchange.com/questions/145447/ifconfig-command-not-found
@@ -37,4 +38,5 @@ https://phoenixnap.com/kb/how-to-enable-ssh-centos-7
 
 
 ## yum not supporting CentOS, change to vault centos repo: <br>
-https://www.nux.ro/Enable_vault_repositories_on_CentOS7/
+https://www.nux.ro/Enable_vault_repositories_on_CentOS7/ <br>
+https://www.veeble.com/kb/centos-repo-list-working-urls/
