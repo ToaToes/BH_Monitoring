@@ -40,3 +40,7 @@ https://phoenixnap.com/kb/how-to-enable-ssh-centos-7
 ## yum not supporting CentOS, change to vault centos repo: <br>
 https://www.nux.ro/Enable_vault_repositories_on_CentOS7/ <br>
 https://www.veeble.com/kb/centos-repo-list-working-urls/
+
+
+## To create Shared File between Virtual Machine and host machine
+https://www.chenreal.com/post/519
