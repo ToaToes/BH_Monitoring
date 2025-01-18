@@ -68,3 +68,10 @@ It should display the path you set, for example:
 
 5. Install Oracle DB version -> 19c
 6. Setup environmnet for Oracle DB
+   
+preinstall package for Red Hat 7 OS
+https://community.oracle.com/mosc/discussion/4531029/oracle-19c-preinstall-rpm-package-for-red-hat-7-os<br>
+Oracle 19c procedures<br>
+https://blog.csdn.net/weixin_41977045/article/details/139683330 <br>
+linux oracle 19c download<br>
+https://blog.csdn.net/zlh1239/article/details/135029367<br>
