@@ -12,7 +12,7 @@
    Check Miner performance -> swtiched to High Mode <br>
 
 
-```
+
 Pull Form:
 
 https://forms.gle/PKDfQHJwWWUZTsMm7
@@ -20,4 +20,4 @@ https://forms.gle/PKDfQHJwWWUZTsMm7
 Rack Form: 
 
 https://forms.gle/SmtoNnBzfS1sAoag9
-```
+
