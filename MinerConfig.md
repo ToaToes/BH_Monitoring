@@ -10,6 +10,7 @@
 
 3. Remind Monitoring team to configure new racked hashing miners <br>
    Check Miner performance -> swtiched to High Mode <br>
+   Check Power Limit, set to 8500
 
 
 
